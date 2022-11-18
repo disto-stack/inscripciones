@@ -7,7 +7,7 @@ public class Estudiante {
     private String nombre;
     private Set<String> codigosMaterias;
 
-    public void Estudiante(String cedula, String nombre) {
+    public Estudiante(String cedula, String nombre) {
 
     }
 
